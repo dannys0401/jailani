@@ -22,13 +22,13 @@ These instructions will get you a copy of the project up and running on your loc
 1. Install the package globally using npm:
 
 ```bash
-npm i -g drinktea
+npm i -g jailani
 ```
 
 2. Verify the installation:
 
 ```bash
-drinktea --version
+jailani --version
 ```
 
 ## 🎈 Usage
@@ -36,7 +36,7 @@ drinktea --version
 1. Run the application:
 
 ```bash
-drinktea
+jailani
 ```
 
 2. You will be prompted to enter your tea name. Type in your favorite tea and hit enter.
